@@ -1,0 +1,6 @@
+{
+  "name": "SoundCloud Mobile",
+  "description": "SoundCloud mobile web application with music player, track discovery, and personalized feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
